@@ -1,0 +1,9 @@
+spring:
+#MongoDb
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017
+      database: test
+  security:
+    user:
+        password: test
